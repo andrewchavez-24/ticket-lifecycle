@@ -13,7 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro (22H2) at least 2vCPUs, 8GB RAM
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -25,7 +25,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-As an end-user, created the following ticket:
+<b>DISCLAIMER:</b> make sure the Maintenance department is deleted as tickets somehow get routed here. Login as an admin, hover over agents (big tab) and click on departments. Check the Maintenance department, click More then delete. Now we can begin.
+</p>
+
+<h3>Creating a ticket</h3>
+<p>
+As an end-user, create the following ticket:
 "entire mobile/online banking system is down"
 </p>
 <br />
